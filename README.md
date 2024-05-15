@@ -25,4 +25,4 @@ This project implements various high-pass filters using different parallelizatio
 - **Input Image:**
 <img src="Samples/lena.png" alt="Sample" width="25%">
 - **Output Image:** 
-<img src="Samples/output.png" alt="Output" width="50%">
+<img src="Samples/output.png" alt="Output" width="25%">
