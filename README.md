@@ -20,3 +20,7 @@ This project implements various high-pass filters using different parallelizatio
 - OpenCV: This project uses OpenCV for image input/output and processing.
 - MPI: Required for MPI parallelization.
 - OpenMP: Required for OpenMP parallelization.
+
+## Sample Input and Output:
+- **Input Image:** <img src="Samples/lena.png" alt="Sample" width="50%">
+- **Output Image:** [Name of Output Image]
